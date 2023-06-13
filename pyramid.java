@@ -15,7 +15,7 @@ public class PyramidAsterisks {
               
         //Asteriscos
         for(int j=1; j <= asterisksCount ; j++){
-          System.out.print("*");
+          System.out.print("0");
         }
         
         whiteSpace--;
